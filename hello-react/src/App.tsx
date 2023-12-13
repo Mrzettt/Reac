@@ -25,6 +25,12 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
+          temporibus commodi a totam labore facilis culpa iste velit aliquid
+          eveniet explicabo rerum harum eligendi molestiae necessitatibus
+          nostrum, incidunt nihil autem.
+        </p>
       </div>
 
       <Mcpn title={"This is props from App.tsx"} descr={"This Descript"} />
